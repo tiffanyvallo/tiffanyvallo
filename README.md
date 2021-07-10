@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hey :blush: 👋
 
+✨ Welcome to my github ✨
+
+:no_entry: CURRENTLY UNDER CONSTRUCTION :sweat_smile: :no_entry:
 <!--
 **tiffanyvallo/tiffanyvallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
