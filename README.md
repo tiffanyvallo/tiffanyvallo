@@ -1,4 +1,4 @@
-## ✨ Hey :blush: Welcome to my github ✨
+## ✨ Welcome to my github ✨
 
 ### I am a recent :woman_student: Makers graduate and a :woman_technologist: Full-Stack Sofware Engineer
 
