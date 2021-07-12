@@ -3,9 +3,9 @@
 ## ✨ Welcome to my github ✨
 <br/>
 
-### I am a recent :woman_student: Makers graduate :woman_student: and a :woman_technologist: Full-Stack Sofware Engineer :woman_technologist:
+#### I am a recent :woman_student: Makers graduate :woman_student: and a :woman_technologist: Full-Stack Sofware Engineer :woman_technologist:
 <br/>
-#### :crystal_ball: Languages and Tools :crystal_ball:
+### :crystal_ball: Languages and Tools :crystal_ball:
 <br/>
 <img align="left" alt="CSS" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 <img align="left" alt="HTML" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />
@@ -28,8 +28,8 @@
 #### :memo: Some things about me :memo:
 <br/>
 - :white_check_mark: I gradutaed Makers on June 2021
-- :pencil2: Check out my [blog](https://tiffanyvallo.medium.com/)
-- :information_desk_person: My CV can be found [here](https://github.com/tiffanyvallo/CV) or view a [PDF version] (https://drive.google.com/file/d/1vtancyxk25qf9CD2wna2heyfYSXa2Zn5/preview)
+- :pencil2: Check out my [blog] (https://tiffanyvallo.medium.com/)
+- :information_desk_person: My CV can be found [here] (https://github.com/tiffanyvallo/CV) or view a [PDF version] (https://drive.google.com/file/d/1vtancyxk25qf9CD2wna2heyfYSXa2Zn5/preview)
 - :computer: View my [Linkedin] (https://www.linkedin.com/in/tiffany-vallo-092b70168/)
 <br/>
 
