@@ -1,8 +1,9 @@
 ## Hey :blush: 👋
 
 ✨ Welcome to my github ✨
+<p>&nbsp;</p>
 I am a recent :woman_student: Makers graduate :woman_student: and a :woman_technologist: Full-Stack Sofware Engineer :woman_technologist:
----
+<p>&nbsp;</p>
 
 :crystal_ball: Languages and Tools :crystal_ball:
 ---
