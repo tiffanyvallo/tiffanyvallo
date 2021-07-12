@@ -1,10 +1,12 @@
 # Hey :blush: 👋
 
 ## ✨ Welcome to my github ✨
+<br/>
 
 ### I am a recent :woman_student: Makers graduate :woman_student: and a :woman_technologist: Full-Stack Sofware Engineer :woman_technologist:
-
+<br/>
 #### :crystal_ball: Languages and Tools :crystal_ball:
+<br/>
 <img align="left" alt="CSS" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 <img align="left" alt="HTML" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />
 <img align="left" alt="JavaScript" width="20px" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" />
@@ -20,13 +22,16 @@
 <img align="left" alt="PostgreSQL" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 <img align="left" alt="MongoDB" width="20px" src="https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470--x.png" />
 <img align="left" alt="Git" width="20px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+<br/>
+<br/>
 
 #### :memo: Some things about me :memo:
+<br/>
 - :white_check_mark: I gradutaed Makers on June 2021
 - :pencil2: Check out my [blog](https://tiffanyvallo.medium.com/)
 - :information_desk_person: My CV can be found [here](https://github.com/tiffanyvallo/CV) or view a [PDF version] (https://drive.google.com/file/d/1vtancyxk25qf9CD2wna2heyfYSXa2Zn5/preview)
 - :computer: View my [Linkedin] (https://www.linkedin.com/in/tiffany-vallo-092b70168/)
-
+<br/>
 
 <!--
 **tiffanyvallo/tiffanyvallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
