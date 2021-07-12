@@ -1,7 +1,6 @@
 ## ✨ Hey :blush: Welcome to my github ✨
 
-I am a recent :woman_student: Makers graduate and a :woman_technologist: Full-Stack Sofware Engineer
----
+### I am a recent :woman_student: Makers graduate and a :woman_technologist: Full-Stack Sofware Engineer
 
 :crystal_ball: Languages and Tools :crystal_ball:
 ---
@@ -18,7 +17,7 @@ I am a recent :woman_student: Makers graduate and a :woman_technologist: Full-St
 <img align="left" alt="Sinatra" width="30px" src="https://cdn.worldvectorlogo.com/logos/sinatra.svg" />
 <img align="left" alt="Capybara" width="30px" src="https://www.mailslurp.com/assets/brands/capybara.png" />
 <img align="left" alt="PostgreSQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
-<img align="left" alt="MongoDB" width="30px" src="https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470--x.png" />
+<img align="left" alt="MongoDB" width="30px" src="https://www.ictdemy.com/images/5728/mdb.png" />
 <img align="left" alt="Git" width="30px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <p>&nbsp;</p>
 
