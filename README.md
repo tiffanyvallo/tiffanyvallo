@@ -1,9 +1,7 @@
-## Hey :blush:
+## ✨ Hey :blush: Welcome to my github ✨
 
-✨ Welcome to my github ✨
-<br />
 I am a recent :woman_student: Makers graduate and a :woman_technologist: Full-Stack Sofware Engineer
-<p>&nbsp;</p>
+---
 
 :crystal_ball: Languages and Tools :crystal_ball:
 ---
