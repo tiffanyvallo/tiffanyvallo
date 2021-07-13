@@ -1,6 +1,13 @@
 ## ✨ Welcome to my GitHub ✨
 
 ### I am a recent :woman_student: Makers graduate and a :woman_technologist: Full-Stack Sofware Engineer
+:memo: Some things about me :memo:
+---
+* :white_check_mark: - I gradutaed Makers on June 2021
+* :pencil2: - Check out my [blog](https://tiffanyvallo.medium.com/ "blog")
+* :information_desk_person: - My CV can be found [here](https://github.com/tiffanyvallo/CV "CV Repo") or view a [PDF version](https://drive.google.com/file/d/19dBHoDTI_k6LFojOrcSoH5Cfbc5b5SEe/preview "CV PDF")
+* :computer: - View my [Linkedin](https://www.linkedin.com/in/tiffany-vallo-092b70168/ "Linkedin")
+<p>&nbsp;</p>
 
 :crystal_ball: Languages and Tools :crystal_ball:
 ---
@@ -9,7 +16,7 @@
 <img align="left" alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <img align="left" alt="Jasmine" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Logo_jasmine.svg/1200px-Logo_jasmine.svg.png" />
 <img align="left" alt="React" width="30px" src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector.svg" />
-<img align="left" alt="Node" width="30px" src="https://www.paceit.co.uk/wp-content/uploads/2019/08/node-js-logo.jpg" />
+<img align="left" alt="Node" width="30px" src="https://blog.rahulbhutani.com/wp-content/uploads/2020/10/nodejs-1.png" />
 <img align="left" alt="Express" width="30px" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" />
 <img align="left" alt="Ruby" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" />
 <img align="left" alt="Rails" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png" />
@@ -21,12 +28,7 @@
 <img align="left" alt="Git" width="30px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <p>&nbsp;</p>
 
-:memo: Some things about me :memo:
----
-* :white_check_mark: - I gradutaed Makers on June 2021
-* :pencil2: - Check out my [blog](https://tiffanyvallo.medium.com/ "blog")
-* :information_desk_person: - My CV can be found [here](https://github.com/tiffanyvallo/CV "CV Repo") or view a [PDF version](https://drive.google.com/file/d/19dBHoDTI_k6LFojOrcSoH5Cfbc5b5SEe/preview "CV PDF")
-* :computer: - View my [Linkedin](https://www.linkedin.com/in/tiffany-vallo-092b70168/ "Linkedin")
+
 
 
 
