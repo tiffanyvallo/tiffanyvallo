@@ -5,7 +5,7 @@
 ---
 * :white_check_mark: - I gradutaed Makers on June 2021
 * :pencil2: - Check out my [blog](https://tiffanyvallo.medium.com/ "blog")
-* :information_desk_person: - My CV can be found [here](https://github.com/tiffanyvallo/CV "CV Repo") or view a [PDF version](https://drive.google.com/file/d/19dBHoDTI_k6LFojOrcSoH5Cfbc5b5SEe/preview "CV PDF")
+* :information_desk_person: - My CV can be found [here](https://github.com/tiffanyvallo/CV "CV Repo") 
 * :computer: - View my [Linkedin](https://www.linkedin.com/in/tiffany-vallo-092b70168/ "Linkedin")
 <p>&nbsp;</p>
 
@@ -45,4 +45,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+or view a [PDF version](https://drive.google.com/file/d/19dBHoDTI_k6LFojOrcSoH5Cfbc5b5SEe/preview "CV PDF")
 -->
