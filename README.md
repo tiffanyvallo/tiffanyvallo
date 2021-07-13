@@ -8,9 +8,9 @@
 <img align="left" alt="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <img align="left" alt="Jasmine" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Logo_jasmine.svg/1200px-Logo_jasmine.svg.png" />
-<img align="left" alt="React" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2560px-React-icon.svg.png" />
-<img align="left" alt="Node" width="30px" src="https://www.paceit.co.uk/wp-content/uploads/2019/08/node-js-logo.jpg" />
-<img align="left" alt="Express" width="30px" src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo.png" />
+<img align="left" alt="React" width="30px" src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector.svg" />
+<img align="left" alt="Node" width="30px" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" />
+<img align="left" alt="Express" width="30px" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" />
 <img align="left" alt="Ruby" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" />
 <img align="left" alt="Rails" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png" />
 <img align="left" alt="Rspec" width="30px" src="https://rspec.info/images/logo_ogp.png" />
