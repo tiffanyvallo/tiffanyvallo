@@ -46,5 +46,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+TO add
+Git status
+Top projects
+Tech table
 or view a [PDF version](https://drive.google.com/file/d/19dBHoDTI_k6LFojOrcSoH5Cfbc5b5SEe/preview "CV PDF")
 -->
