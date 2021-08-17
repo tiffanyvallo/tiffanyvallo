@@ -29,6 +29,7 @@
 <p>&nbsp;</p>
 
 🧠 Technical Knowledge 🧠
+---
 Throughout my time at Makers, I was able to learn new languages and use a number of technologies which I have applied to a number of my projects.
 <table>
   <thead>
