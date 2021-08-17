@@ -1,6 +1,7 @@
 ## ✨ Welcome to my GitHub ✨
 
 ### I am a recent :woman_student: Makers graduate and a :woman_technologist: Full-Stack Sofware Engineer
+<br>
 :memo: Some things about me :memo:
 ---
 * :white_check_mark: - I gradutaed Makers on June 2021
@@ -27,6 +28,7 @@
 <img align="left" alt="MongoDB" width="30px" src="https://www.ictdemy.com/images/5728/mdb.png" />
 <img align="left" alt="Git" width="30px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <p>&nbsp;</p>
+<br>
 
 🧠 Technical Knowledge 🧠
 ---
