@@ -1,7 +1,7 @@
 ## ✨ Welcome to my GitHub ✨
 
 ### I am a recent :woman_student: Makers graduate and a :woman_technologist: Full-Stack Sofware Engineer
-<br>
+
 :memo: Some things about me :memo:
 ---
 * :white_check_mark: - I gradutaed Makers on June 2021
