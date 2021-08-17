@@ -28,6 +28,70 @@
 <img align="left" alt="Git" width="30px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <p>&nbsp;</p>
 
+🧠 Technical Knowledge 🧠
+Throughout my time at Makers, I was able to learn new languages and use a number of technologies which I have applied to a number of my projects.
+<table>
+  <thead>
+    <tr>
+      <th>Concepts</th>
+      <th>Languages</th>
+      <th>Technologies</th>
+      <th>Testing Frameworks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align: top">
+        <ul>
+          <li>BDD and TDD</li>
+          <li>Code reviews</li>
+          <li>Developer workflow</li>
+          <li>Domain Modelling</li>
+          <li>Encapsulation</li>
+          <li>Git workflow</li> 
+          <li>Mentoring</li>
+          <li>Minimum Viable Product</li>
+          <li>MVC Model</li>
+          <li>Pair programming</li>
+          <li>Presentations</li>
+          <li>Remote working</li>
+          <li>RESTful APIs</li>
+          <li>XP/Agile methodology</li>          
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>JavaScript</li>
+          <li>React</li>
+          <li>Ruby</li>
+          <li>Ruby on Rails</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>CSS3</li>
+          <li>Git</li>
+          <li>HTML</li>
+          <li>MongoDB</li>
+          <li>PostgreSQL</li>
+          <li>Sinatra</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Capybara</li>
+          <li>Express</li>
+          <li>Jest</li>
+          <li>Jasmine</li>
+          <li>Node</li>
+          <li>RSpec</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 
 
