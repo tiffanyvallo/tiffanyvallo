@@ -28,6 +28,10 @@
 <img align="left" alt="PostgreSQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://www.ictdemy.com/images/5728/mdb.png" />
 <img align="left" alt="Git" width="30px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+<img align="left" alt="Java" width="30px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" />
+<img align="left" alt="JUnit" width="30px" src="https://lh3.googleusercontent.com/proxy/VTTbn5mr6fV3OdVjsColEYl7InvFlc9A1hTaFmEpvD6BSHh30w0EfHuwg1YAN3quCa0Rh-ntmuPuHLt-tFcToOB9vPs5i2Z6fvciL6EPfRJMOst3eM62" />
+<img align="left" alt="Spring" width="30px" src="https://azure.microsoft.com/svghandler/spring-cloud?width=600&height=315" />
+
 <p>&nbsp;</p>
 <br>
 
