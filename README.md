@@ -28,9 +28,9 @@
 <img align="left" alt="PostgreSQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://www.ictdemy.com/images/5728/mdb.png" />
 <img align="left" alt="Git" width="30px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-<img align="left" alt="Java" width="30px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" />
-<img align="left" alt="JUnit" width="30px" src="https://lh3.googleusercontent.com/proxy/VTTbn5mr6fV3OdVjsColEYl7InvFlc9A1hTaFmEpvD6BSHh30w0EfHuwg1YAN3quCa0Rh-ntmuPuHLt-tFcToOB9vPs5i2Z6fvciL6EPfRJMOst3eM62" />
-<img align="left" alt="Spring" width="30px" src="https://azure.microsoft.com/svghandler/spring-cloud?width=600&height=315" />
+<img align="left" alt="Java" width="30px" src="https://www.blockachain.gr/wp-content/uploads/2018/03/java-coffee-cup-logo.png" />
+<img align="left" alt="JUnit" width="30px" src="https://camo.githubusercontent.com/2f40a6b0bcd582469349f8c1e74773c0da5c1ac32c1822dd4102f5f505187a6a/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30382f6a756e69742e706e67" />
+<img align="left" alt="Spring" width="30px" src="https://pbs.twimg.com/profile_images/1235243877684129792/giUxooMn.png" />
 
 <p>&nbsp;</p>
 <br>
